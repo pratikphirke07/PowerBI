@@ -23,3 +23,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 # Monthly Analysis View
 
+<img width="1411" alt="Monthly Analysis" src="https://user-images.githubusercontent.com/29759531/200158487-11c38479-b28c-4ea8-aa94-1ef934ca268f.png">
+
+# Video Recording of Dashboard
+
