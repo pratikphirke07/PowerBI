@@ -19,5 +19,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 # Yearly Overall Analysis View
 
+<img width="1414" alt="Yearly Analysis" src="https://user-images.githubusercontent.com/29759531/200158424-689694c9-c0e5-4eaf-9da8-d7e7b0a6f980.png">
 
+# Monthly Analysis View
 
